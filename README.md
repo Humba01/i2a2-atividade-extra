@@ -1,4 +1,4 @@
-# notecode-i2a2-atividade-extra-0110
+# i2a2-atividade-extra
 
 ___
 ## Manual de uso do projeto
